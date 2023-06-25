@@ -17,17 +17,17 @@ export const Experience = [
     id: 1,
     date: "Aug 2022 - March 2023",
     iconsSrc: <IoCodeWorking />,
-    title: "QuickMobile ReactJs Frontend Developer",
+    title: "QuickMobile",
     location: "Mumbai, India",
-    description: "Front end developer as a freelancer",
+    description: "ReactJs Frontend Developer",
   },
   {
     id: 2,
     date: "June 2017- May 2019",
     iconsSrc: <IoCodeWorking />,
-    title: "IsCreatives Frontend Developer",
+    title: "IsCreatives",
     location: "Mumbai, India",
-    description: "Front end developer as a freelancer",
+    description: "Frontend Developer",
   },
 ];
 
